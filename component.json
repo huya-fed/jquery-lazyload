@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/tuupola/jquery_lazyload",
+    "version": "v1.9.5",
+    "name": "jquery-lazyload",
+    "main": "jquery.lazyload.js"
+}
